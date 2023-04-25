@@ -1,0 +1,14 @@
+[
+  {
+    "messageId": 1,
+    "question": "What is your name?",
+    "answers": ["Да", "Нет", "Тык"],
+    "vote_distribution": [1337, 239, 300],
+    "votes": [
+      {
+        "user_id": 1234567890,
+        "answer_index": 0
+      }
+    ]
+  }
+]

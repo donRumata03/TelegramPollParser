@@ -1,0 +1,23 @@
+{
+    "_": "MessageService",
+    "id": 1,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1647040185
+    },
+    "date": "2022-04-15T08:27:38+00:00",
+    "action": {
+        "_": "MessageActionChannelMigrateFrom",
+        "title": "Тестовый чатик с опросиками",
+        "chat_id": 705016882
+    },
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": false,
+    "legacy": false,
+    "from_id": null,
+    "reply_to": null,
+    "ttl_period": null
+}
