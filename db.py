@@ -11,14 +11,24 @@ import os
 from serialization import telethon_to_json
 
 
+def max_index_of_type(type):
+    """ Returns the maximum index of a file of the given type in the database """
+    file_names = os.listdir("parsed")
+    file_names_of_type = [file_name for file_name in file_names if file_name.endswith(f"_{type}.json")]
+    if len(file_names_of_type) == 0:
+        return -1
+    return max([int(file_name.split("_")[0]) for file_name in file_names_of_type])
+
+
 def next_message_id_to_process():
     """ Returns the id of the next message to process — the first message id for which message file isn't created """
     file_names = os.listdir("parsed")
-    message_ids_of_polls = [int(file_name.split("_")[0]) for file_name in file_names if
-                            file_name.endswith("_message.json")]
-    if len(message_ids_of_polls) == 0:
-        return 0
-    return max(message_ids_of_polls) + 1
+    # Last dumped message may miss its votes file, but if there are a lot of messages without polls,
+    # it's better to skip them the previous ones
+    max_message_id = max_index_of_type("message")
+    max_votes_id = max_index_of_type("votes")
+
+    return max(max_message_id - 1, max_votes_id) + 1
 
 
 def store_message(message):

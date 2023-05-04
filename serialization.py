@@ -7,7 +7,7 @@ from telethon.tl.types import Message, PeerChannel, MessageMediaPoll, Poll, Poll
     EmojiStatus
 from telethon.tl.types.messages import VotesList
 
-import db
+# import db
 
 
 def my_json_default(value):
@@ -996,7 +996,7 @@ if __name__ == '__main__':
     print(telethon_to_json(message))
     print(telethon_to_json(votes_list))
 
-    db.store_message(message)
-    db.store_votes(message, votes_list)
+    # db.store_message(message)
+    # db.store_votes(message, votes_list)
 
 # Parse from json
