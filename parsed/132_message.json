@@ -1,0 +1,123 @@
+{
+    "_": "Message",
+    "id": 132,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1647040185
+    },
+    "date": "2022-05-06T19:26:55+00:00",
+    "message": "",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": false,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "from_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPoll",
+        "poll": {
+            "_": "Poll",
+            "id": 5451737744139092130,
+            "question": "Любимые смешарики (1/2)",
+            "answers": [
+                {
+                    "_": "PollAnswer",
+                    "text": "Крош",
+                    "option": "b'0'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Ёжик",
+                    "option": "b'1'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Нюша",
+                    "option": "b'2'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Бараш",
+                    "option": "b'3'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Совунья",
+                    "option": "b'4'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Кар-Карыч",
+                    "option": "b'5'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Пин",
+                    "option": "b'6'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Копатыч",
+                    "option": "b'7'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Лосяш",
+                    "option": "b'8'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "не смотрю / тык",
+                    "option": "b'9'"
+                }
+            ],
+            "closed": false,
+            "public_voters": true,
+            "multiple_choice": true,
+            "quiz": false,
+            "close_period": null,
+            "close_date": null
+        },
+        "results": {
+            "_": "PollResults",
+            "min": false,
+            "results": [],
+            "total_voters": 32,
+            "recent_voters": [
+                511016527,
+                1352976876,
+                530508072
+            ],
+            "solution": null,
+            "solution_entities": []
+        }
+    },
+    "reply_markup": null,
+    "entities": [],
+    "views": null,
+    "forwards": null,
+    "replies": {
+        "_": "MessageReplies",
+        "replies": 0,
+        "replies_pts": 6957,
+        "comments": false,
+        "recent_repliers": [],
+        "channel_id": null,
+        "max_id": null,
+        "read_max_id": null
+    },
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null
+}

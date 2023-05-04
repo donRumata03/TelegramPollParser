@@ -15,6 +15,7 @@ import db
 from config import api_id, api_hash, chat_id, phone
 
 message_to_start = db.next_message_id_to_process()
+print(f"Starting from message id: {message_to_start}")
 
 with TelegramClient("session_name", api_id, api_hash) as client:
     for (i, message) in enumerate(client.iter_messages(chat_id, filter=types.InputMessagesFilterEmpty(), reverse=True, min_id=message_to_start)):
@@ -71,8 +72,8 @@ with TelegramClient("session_name", api_id, api_hash) as client:
                     print("Poll votes request failed:", e)
 
         print("\n\n\n\n\n")
-        if i > 10:
-            break
+        # if i > 10:
+        #     break
         time.sleep(random.random() / 5)
 
 """

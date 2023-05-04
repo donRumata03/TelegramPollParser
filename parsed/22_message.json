@@ -1,0 +1,27 @@
+{
+    "_": "MessageService",
+    "id": 22,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1647040185
+    },
+    "date": "2022-04-15T08:30:49+00:00",
+    "action": {
+        "_": "MessageActionGroupCall",
+        "call": {
+            "_": "InputGroupCall",
+            "id": -7073983727890726419,
+            "access_hash": 6073112581449023516
+        },
+        "duration": null
+    },
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": false,
+    "legacy": false,
+    "from_id": null,
+    "reply_to": null,
+    "ttl_period": null
+}

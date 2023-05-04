@@ -1,0 +1,59 @@
+{
+    "_": "MessageService",
+    "id": 42,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1647040185
+    },
+    "date": "2022-04-15T08:36:23+00:00",
+    "action": {
+        "_": "MessageActionChatEditPhoto",
+        "photo": {
+            "_": "Photo",
+            "id": 5389030131152042458,
+            "access_hash": -6611169154105829001,
+            "file_reference": "b'\\x02b+\\xd6\\xb9\\x00\\x00\\x00*dS\\xc1~\\xe9\\xfc\\xe4\\x1a!\\xb1~\\xa4/\\x1d\\x00\\xaf\\x98\\xd33\\x19'",
+            "date": "2022-04-15T08:36:23+00:00",
+            "sizes": [
+                {
+                    "_": "PhotoSize",
+                    "type": "a",
+                    "w": 160,
+                    "h": 160,
+                    "size": 3328
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "b",
+                    "w": 320,
+                    "h": 320,
+                    "size": 7240
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "c",
+                    "w": 640,
+                    "h": 640,
+                    "size": 15654
+                },
+                {
+                    "_": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "b'\\x01((J(\\xa2\\xb3\\xb9\\xcc\\x14QE\\x17\\x00\\xa2\\x8a(\\xb8\\x15\\x91\\x98G\\x93\\xd7o\\xcb\\xf4\\xcf5 r[h|\\xfc\\xdf{\\xdb\\x15-\\x14\\x0e\\xe4\\x1ec\\x94\\xc8nB\\xe4\\xf1\\xdf4\\x19\\x1f-\\xc8\\x18\\xcf\\x15=\\x14\\x05\\xc8\\x1d\\xddA\\x00\\xe4\\xed\\xceH\\xa2\\xa7\\xa2\\x9d\\xc2\\xfeAE\\x14R\\x10QE\\x14\\x00QE\\x14\\x01'"
+                }
+            ],
+            "dc_id": 2,
+            "has_stickers": false,
+            "video_sizes": []
+        }
+    },
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": false,
+    "legacy": false,
+    "from_id": null,
+    "reply_to": null,
+    "ttl_period": null
+}
