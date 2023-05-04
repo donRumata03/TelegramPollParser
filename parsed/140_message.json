@@ -1,11 +1,11 @@
 {
     "_": "Message",
-    "id": 130,
+    "id": 140,
     "peer_id": {
         "_": "PeerChannel",
         "channel_id": 1647040185
     },
-    "date": "2022-05-06T19:01:12+00:00",
+    "date": "2022-05-09T14:32:38+00:00",
     "message": "",
     "out": false,
     "mentioned": false,
@@ -25,43 +25,63 @@
         "_": "MessageMediaPoll",
         "poll": {
             "_": "Poll",
-            "id": 5451737744139092127,
-            "question": "Если западная часть Украины де-факто будет присоединена к Польше, вы конкретно этому",
+            "id": 5460779354671808600,
+            "question": "Я",
             "answers": [
                 {
                     "_": "PollAnswer",
-                    "text": "очень обрадуетесь",
+                    "text": "Всегда отвечаю в опросах не так, как большинство",
                     "option": "b'0'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "скорее обрадуетесь",
+                    "text": "Часто отвечаю в опросах как большинство",
                     "option": "b'1'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "отнесётесь нейтрально",
+                    "text": "Когда как",
                     "option": "b'2'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "скорее огорчитесь",
+                    "text": "Часто отвечаю не как большинство",
                     "option": "b'3'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "очень огорчитесь",
+                    "text": "Всегда отвечаю не как большинство",
                     "option": "b'4'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "всё равно",
+                    "text": "Отвечаю не как большинство по рофлу",
                     "option": "b'5'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Отвечаю не как большинство т.к. мое мнение отличается",
+                    "option": "b'6'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Отвечаю не как большинство по другим причинам",
+                    "option": "b'7'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Не голосую в опросах",
+                    "option": "b'8'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Тык",
+                    "option": "b'9'"
                 }
             ],
             "closed": false,
-            "public_voters": false,
-            "multiple_choice": false,
+            "public_voters": true,
+            "multiple_choice": true,
             "quiz": false,
             "close_period": null,
             "close_date": null
@@ -73,48 +93,80 @@
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'0'",
-                    "voters": 4,
-                    "chosen": true,
+                    "voters": 1,
+                    "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'1'",
-                    "voters": 3,
+                    "voters": 4,
                     "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'2'",
-                    "voters": 9,
+                    "voters": 30,
                     "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'3'",
-                    "voters": 10,
+                    "voters": 3,
                     "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'4'",
-                    "voters": 6,
+                    "voters": 1,
                     "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'5'",
-                    "voters": 7,
+                    "voters": 1,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'6'",
+                    "voters": 11,
+                    "chosen": true,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'7'",
+                    "voters": 2,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'8'",
+                    "voters": 4,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'9'",
+                    "voters": 12,
                     "chosen": false,
                     "correct": false
                 }
             ],
-            "total_voters": 39,
-            "recent_voters": [],
+            "total_voters": 44,
+            "recent_voters": [
+                5764082456,
+                1352976876,
+                5422863690
+            ],
             "solution": null,
             "solution_entities": []
         }
@@ -126,7 +178,7 @@
     "replies": {
         "_": "MessageReplies",
         "replies": 0,
-        "replies_pts": 6975,
+        "replies_pts": 6977,
         "comments": false,
         "recent_repliers": [],
         "channel_id": null,

@@ -1,11 +1,11 @@
 {
     "_": "Message",
-    "id": 126,
+    "id": 178,
     "peer_id": {
         "_": "PeerChannel",
         "channel_id": 1647040185
     },
-    "date": "2022-05-06T16:41:14+00:00",
+    "date": "2022-05-15T18:46:20+00:00",
     "message": "",
     "out": false,
     "mentioned": false,
@@ -25,23 +25,18 @@
         "_": "MessageMediaPoll",
         "poll": {
             "_": "Poll",
-            "id": 5451737744139092101,
-            "question": "На ваш взгляд Ли Куан Ю - великая личность?",
+            "id": 5193136174109032529,
+            "question": "Я скорее",
             "answers": [
                 {
                     "_": "PollAnswer",
-                    "text": "Да",
+                    "text": "dusha person",
                     "option": "b'0'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "Нет",
+                    "text": "boobs person",
                     "option": "b'1'"
-                },
-                {
-                    "_": "PollAnswer",
-                    "text": "Не знаю, кто это",
-                    "option": "b'2'"
                 }
             ],
             "closed": false,
@@ -58,21 +53,14 @@
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'0'",
-                    "voters": 7,
+                    "voters": 36,
                     "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'1'",
-                    "voters": 2,
-                    "chosen": false,
-                    "correct": false
-                },
-                {
-                    "_": "PollAnswerVoters",
-                    "option": "b'2'",
-                    "voters": 35,
+                    "voters": 8,
                     "chosen": true,
                     "correct": false
                 }
@@ -90,14 +78,14 @@
     "replies": {
         "_": "MessageReplies",
         "replies": 0,
-        "replies_pts": 6975,
+        "replies_pts": 6977,
         "comments": false,
         "recent_repliers": [],
         "channel_id": null,
         "max_id": null,
         "read_max_id": null
     },
-    "edit_date": "2022-05-06T16:43:52+00:00",
+    "edit_date": "2022-09-06T23:39:49+00:00",
     "post_author": null,
     "grouped_id": null,
     "reactions": {

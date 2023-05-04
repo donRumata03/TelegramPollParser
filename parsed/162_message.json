@@ -1,11 +1,11 @@
 {
     "_": "Message",
-    "id": 130,
+    "id": 162,
     "peer_id": {
         "_": "PeerChannel",
         "channel_id": 1647040185
     },
-    "date": "2022-05-06T19:01:12+00:00",
+    "date": "2022-05-12T00:03:51+00:00",
     "message": "",
     "out": false,
     "mentioned": false,
@@ -25,37 +25,37 @@
         "_": "MessageMediaPoll",
         "poll": {
             "_": "Poll",
-            "id": 5451737744139092127,
-            "question": "Если западная часть Украины де-факто будет присоединена к Польше, вы конкретно этому",
+            "id": 5467593625229590592,
+            "question": "Я отношусь к Олегу Тинькову",
             "answers": [
                 {
                     "_": "PollAnswer",
-                    "text": "очень обрадуетесь",
+                    "text": "крайне положительно",
                     "option": "b'0'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "скорее обрадуетесь",
+                    "text": "скорее положительно",
                     "option": "b'1'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "отнесётесь нейтрально",
+                    "text": "нейтрально",
                     "option": "b'2'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "скорее огорчитесь",
+                    "text": "скорее отрицательно",
                     "option": "b'3'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "очень огорчитесь",
+                    "text": "крайне отрицательно",
                     "option": "b'4'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "всё равно",
+                    "text": "не слышал о нём / не могу сформировать мнение / тык",
                     "option": "b'5'"
                 }
             ],
@@ -73,47 +73,47 @@
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'0'",
-                    "voters": 4,
-                    "chosen": true,
-                    "correct": false
-                },
-                {
-                    "_": "PollAnswerVoters",
-                    "option": "b'1'",
                     "voters": 3,
                     "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
+                    "option": "b'1'",
+                    "voters": 14,
+                    "chosen": true,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
                     "option": "b'2'",
-                    "voters": 9,
+                    "voters": 21,
                     "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'3'",
-                    "voters": 10,
+                    "voters": 4,
                     "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'4'",
-                    "voters": 6,
+                    "voters": 5,
                     "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'5'",
-                    "voters": 7,
+                    "voters": 6,
                     "chosen": false,
                     "correct": false
                 }
             ],
-            "total_voters": 39,
+            "total_voters": 53,
             "recent_voters": [],
             "solution": null,
             "solution_entities": []
@@ -126,7 +126,7 @@
     "replies": {
         "_": "MessageReplies",
         "replies": 0,
-        "replies_pts": 6975,
+        "replies_pts": 6977,
         "comments": false,
         "recent_repliers": [],
         "channel_id": null,

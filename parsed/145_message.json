@@ -1,11 +1,11 @@
 {
     "_": "Message",
-    "id": 126,
+    "id": 145,
     "peer_id": {
         "_": "PeerChannel",
         "channel_id": 1647040185
     },
-    "date": "2022-05-06T16:41:14+00:00",
+    "date": "2022-05-10T17:14:26+00:00",
     "message": "",
     "out": false,
     "mentioned": false,
@@ -14,7 +14,7 @@
     "post": false,
     "from_scheduled": false,
     "legacy": false,
-    "edit_hide": true,
+    "edit_hide": false,
     "pinned": false,
     "noforwards": false,
     "from_id": null,
@@ -25,29 +25,24 @@
         "_": "MessageMediaPoll",
         "poll": {
             "_": "Poll",
-            "id": 5451737744139092101,
-            "question": "На ваш взгляд Ли Куан Ю - великая личность?",
+            "id": 5465317726354407777,
+            "question": "Юрия Зайцева назначили губернатором Марий Эла",
             "answers": [
                 {
                     "_": "PollAnswer",
-                    "text": "Да",
+                    "text": "Панорама",
                     "option": "b'0'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "Нет",
+                    "text": "Реальная новость",
                     "option": "b'1'"
-                },
-                {
-                    "_": "PollAnswer",
-                    "text": "Не знаю, кто это",
-                    "option": "b'2'"
                 }
             ],
             "closed": false,
-            "public_voters": false,
+            "public_voters": true,
             "multiple_choice": false,
-            "quiz": false,
+            "quiz": true,
             "close_period": null,
             "close_date": null
         },
@@ -65,22 +60,25 @@
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'1'",
-                    "voters": 2,
-                    "chosen": false,
-                    "correct": false
-                },
-                {
-                    "_": "PollAnswerVoters",
-                    "option": "b'2'",
-                    "voters": 35,
+                    "voters": 39,
                     "chosen": true,
-                    "correct": false
+                    "correct": true
                 }
             ],
-            "total_voters": 44,
-            "recent_voters": [],
-            "solution": null,
-            "solution_entities": []
+            "total_voters": 46,
+            "recent_voters": [
+                5764082456,
+                5422863690,
+                5349625658
+            ],
+            "solution": "https://ria.ru/20220510/putin-1787790913.html",
+            "solution_entities": [
+                {
+                    "_": "MessageEntityUrl",
+                    "offset": 0,
+                    "length": 45
+                }
+            ]
         }
     },
     "reply_markup": null,
@@ -90,23 +88,17 @@
     "replies": {
         "_": "MessageReplies",
         "replies": 0,
-        "replies_pts": 6975,
+        "replies_pts": 6977,
         "comments": false,
         "recent_repliers": [],
         "channel_id": null,
         "max_id": null,
         "read_max_id": null
     },
-    "edit_date": "2022-05-06T16:43:52+00:00",
+    "edit_date": null,
     "post_author": null,
     "grouped_id": null,
-    "reactions": {
-        "_": "MessageReactions",
-        "results": [],
-        "min": false,
-        "can_see_list": true,
-        "recent_reactions": []
-    },
+    "reactions": null,
     "restriction_reason": [],
     "ttl_period": null
 }

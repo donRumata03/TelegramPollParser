@@ -1,11 +1,11 @@
 {
     "_": "Message",
-    "id": 130,
+    "id": 187,
     "peer_id": {
         "_": "PeerChannel",
         "channel_id": 1647040185
     },
-    "date": "2022-05-06T19:01:12+00:00",
+    "date": "2022-05-17T22:08:06+00:00",
     "message": "",
     "out": false,
     "mentioned": false,
@@ -25,43 +25,63 @@
         "_": "MessageMediaPoll",
         "poll": {
             "_": "Poll",
-            "id": 5451737744139092127,
-            "question": "Если западная часть Украины де-факто будет присоединена к Польше, вы конкретно этому",
+            "id": 5197596390271746348,
+            "question": "Ложусь спать обычно",
             "answers": [
                 {
                     "_": "PollAnswer",
-                    "text": "очень обрадуетесь",
+                    "text": "раньше 22:00",
                     "option": "b'0'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "скорее обрадуетесь",
+                    "text": "22:00-23:00",
                     "option": "b'1'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "отнесётесь нейтрально",
+                    "text": "23:00-24:00",
                     "option": "b'2'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "скорее огорчитесь",
+                    "text": "00:00-1:00",
                     "option": "b'3'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "очень огорчитесь",
+                    "text": "01:00-2:00",
                     "option": "b'4'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "всё равно",
+                    "text": "02:00-3:00",
                     "option": "b'5'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "03:00-4:00",
+                    "option": "b'6'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "04:00-5:00",
+                    "option": "b'7'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "позже 5 утра",
+                    "option": "b'8'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "не сплю...",
+                    "option": "b'9'"
                 }
             ],
             "closed": false,
-            "public_voters": false,
-            "multiple_choice": false,
+            "public_voters": true,
+            "multiple_choice": true,
             "quiz": false,
             "close_period": null,
             "close_date": null
@@ -73,48 +93,80 @@
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'0'",
-                    "voters": 4,
-                    "chosen": true,
-                    "correct": false
-                },
-                {
-                    "_": "PollAnswerVoters",
-                    "option": "b'1'",
                     "voters": 3,
                     "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
+                    "option": "b'1'",
+                    "voters": 5,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
                     "option": "b'2'",
-                    "voters": 9,
+                    "voters": 4,
                     "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'3'",
-                    "voters": 10,
+                    "voters": 18,
                     "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'4'",
-                    "voters": 6,
+                    "voters": 26,
                     "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'5'",
-                    "voters": 7,
+                    "voters": 23,
+                    "chosen": true,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'6'",
+                    "voters": 14,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'7'",
+                    "voters": 9,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'8'",
+                    "voters": 3,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'9'",
+                    "voters": 1,
                     "chosen": false,
                     "correct": false
                 }
             ],
-            "total_voters": 39,
-            "recent_voters": [],
+            "total_voters": 55,
+            "recent_voters": [
+                5764082456,
+                511016527,
+                426085120
+            ],
             "solution": null,
             "solution_entities": []
         }
@@ -126,7 +178,7 @@
     "replies": {
         "_": "MessageReplies",
         "replies": 0,
-        "replies_pts": 6975,
+        "replies_pts": 6977,
         "comments": false,
         "recent_repliers": [],
         "channel_id": null,

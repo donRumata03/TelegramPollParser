@@ -12,10 +12,10 @@ from serialization import telethon_to_json
 
 
 def next_message_id_to_process():
-    """ Returns the id of the next message to process — the first message id for which poll file isn't created """
+    """ Returns the id of the next message to process — the first message id for which message file isn't created """
     file_names = os.listdir("parsed")
     message_ids_of_polls = [int(file_name.split("_")[0]) for file_name in file_names if
-                            file_name.endswith("_votes.json")]
+                            file_name.endswith("_message.json")]
     if len(message_ids_of_polls) == 0:
         return 0
     return max(message_ids_of_polls) + 1

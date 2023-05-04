@@ -1,11 +1,11 @@
 {
     "_": "Message",
-    "id": 130,
+    "id": 147,
     "peer_id": {
         "_": "PeerChannel",
         "channel_id": 1647040185
     },
-    "date": "2022-05-06T19:01:12+00:00",
+    "date": "2022-05-10T19:16:23+00:00",
     "message": "",
     "out": false,
     "mentioned": false,
@@ -25,37 +25,37 @@
         "_": "MessageMediaPoll",
         "poll": {
             "_": "Poll",
-            "id": 5451737744139092127,
-            "question": "Если западная часть Украины де-факто будет присоединена к Польше, вы конкретно этому",
+            "id": 5465317726354407789,
+            "question": "За эту неделю у меня",
             "answers": [
                 {
                     "_": "PollAnswer",
-                    "text": "очень обрадуетесь",
+                    "text": "Возникло значительное число опасений касательно ядерной войны",
                     "option": "b'0'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "скорее обрадуетесь",
+                    "text": "Возникло незначительное число опасений",
                     "option": "b'1'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "отнесётесь нейтрально",
+                    "text": "Число опасений (все на ту же тему) не изменилось",
                     "option": "b'2'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "скорее огорчитесь",
+                    "text": "Число опасений незначительно понизилось",
                     "option": "b'3'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "очень огорчитесь",
+                    "text": "Число опасений значительно понизилось",
                     "option": "b'4'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "всё равно",
+                    "text": "Не верю в ядерное оружие/тык",
                     "option": "b'5'"
                 }
             ],
@@ -73,47 +73,47 @@
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'0'",
-                    "voters": 4,
+                    "voters": 5,
                     "chosen": true,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'1'",
-                    "voters": 3,
+                    "voters": 5,
                     "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'2'",
-                    "voters": 9,
+                    "voters": 23,
                     "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'3'",
-                    "voters": 10,
+                    "voters": 0,
                     "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'4'",
-                    "voters": 6,
+                    "voters": 1,
                     "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'5'",
-                    "voters": 7,
+                    "voters": 12,
                     "chosen": false,
                     "correct": false
                 }
             ],
-            "total_voters": 39,
+            "total_voters": 46,
             "recent_voters": [],
             "solution": null,
             "solution_entities": []
@@ -126,7 +126,7 @@
     "replies": {
         "_": "MessageReplies",
         "replies": 0,
-        "replies_pts": 6975,
+        "replies_pts": 6977,
         "comments": false,
         "recent_repliers": [],
         "channel_id": null,

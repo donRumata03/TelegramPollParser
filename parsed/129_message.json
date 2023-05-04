@@ -80,8 +80,8 @@
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'1'",
-                    "voters": 13,
-                    "chosen": true,
+                    "voters": 12,
+                    "chosen": false,
                     "correct": false
                 },
                 {
@@ -94,8 +94,8 @@
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'3'",
-                    "voters": 9,
-                    "chosen": false,
+                    "voters": 10,
+                    "chosen": true,
                     "correct": false
                 },
                 {
@@ -126,7 +126,7 @@
     "replies": {
         "_": "MessageReplies",
         "replies": 0,
-        "replies_pts": 6958,
+        "replies_pts": 6975,
         "comments": false,
         "recent_repliers": [],
         "channel_id": null,

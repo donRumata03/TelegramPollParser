@@ -1,0 +1,190 @@
+{
+    "_": "Message",
+    "id": 136,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1647040185
+    },
+    "date": "2022-05-07T14:21:40+00:00",
+    "message": "",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": false,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": true,
+    "pinned": false,
+    "noforwards": false,
+    "from_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPoll",
+        "poll": {
+            "_": "Poll",
+            "id": 5454192292178952462,
+            "question": "Я предпочитаю",
+            "answers": [
+                {
+                    "_": "PollAnswer",
+                    "text": "Кошек",
+                    "option": "b'0'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Собак",
+                    "option": "b'1'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Других животных (попугаи, еноты, и т.д.)",
+                    "option": "b'2'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Не люблю животных",
+                    "option": "b'3'"
+                }
+            ],
+            "closed": false,
+            "public_voters": true,
+            "multiple_choice": false,
+            "quiz": true,
+            "close_period": null,
+            "close_date": null
+        },
+        "results": {
+            "_": "PollResults",
+            "min": false,
+            "results": [
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'0'",
+                    "voters": 29,
+                    "chosen": true,
+                    "correct": true
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'1'",
+                    "voters": 9,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'2'",
+                    "voters": 2,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'3'",
+                    "voters": 3,
+                    "chosen": false,
+                    "correct": false
+                }
+            ],
+            "total_voters": 43,
+            "recent_voters": [
+                5764082456,
+                1395648752,
+                1352976876
+            ],
+            "solution": null,
+            "solution_entities": []
+        }
+    },
+    "reply_markup": null,
+    "entities": [],
+    "views": null,
+    "forwards": null,
+    "replies": {
+        "_": "MessageReplies",
+        "replies": 0,
+        "replies_pts": 6977,
+        "comments": false,
+        "recent_repliers": [],
+        "channel_id": null,
+        "max_id": null,
+        "read_max_id": null
+    },
+    "edit_date": "2022-05-07T14:26:11+00:00",
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👎"
+                },
+                "count": 2,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 1,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": true,
+        "recent_reactions": [
+            {
+                "_": "MessagePeerReaction",
+                "peer_id": {
+                    "_": "PeerUser",
+                    "user_id": 928898471
+                },
+                "date": "2022-05-10T15:11:11+00:00",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👎"
+                },
+                "big": false,
+                "unread": false
+            },
+            {
+                "_": "MessagePeerReaction",
+                "peer_id": {
+                    "_": "PeerUser",
+                    "user_id": 473603111
+                },
+                "date": "2022-05-07T14:50:24+00:00",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "big": false,
+                "unread": false
+            },
+            {
+                "_": "MessagePeerReaction",
+                "peer_id": {
+                    "_": "PeerUser",
+                    "user_id": 976789795
+                },
+                "date": "2022-05-07T14:26:11+00:00",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👎"
+                },
+                "big": false,
+                "unread": false
+            }
+        ]
+    },
+    "restriction_reason": [],
+    "ttl_period": null
+}

@@ -1,11 +1,11 @@
 {
     "_": "Message",
-    "id": 130,
+    "id": 180,
     "peer_id": {
         "_": "PeerChannel",
         "channel_id": 1647040185
     },
-    "date": "2022-05-06T19:01:12+00:00",
+    "date": "2022-05-16T07:28:34+00:00",
     "message": "",
     "out": false,
     "mentioned": false,
@@ -25,42 +25,42 @@
         "_": "MessageMediaPoll",
         "poll": {
             "_": "Poll",
-            "id": 5451737744139092127,
-            "question": "Если западная часть Украины де-факто будет присоединена к Польше, вы конкретно этому",
+            "id": 5192917027697721507,
+            "question": "Как прошла Ваша пятница 13-е?",
             "answers": [
                 {
                     "_": "PollAnswer",
-                    "text": "очень обрадуетесь",
+                    "text": "Отлично",
                     "option": "b'0'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "скорее обрадуетесь",
+                    "text": "Хорошо",
                     "option": "b'1'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "отнесётесь нейтрально",
+                    "text": "Нормально",
                     "option": "b'2'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "скорее огорчитесь",
+                    "text": "Плохо",
                     "option": "b'3'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "очень огорчитесь",
+                    "text": "Ужасно",
                     "option": "b'4'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "всё равно",
+                    "text": "тык",
                     "option": "b'5'"
                 }
             ],
             "closed": false,
-            "public_voters": false,
+            "public_voters": true,
             "multiple_choice": false,
             "quiz": false,
             "close_period": null,
@@ -73,48 +73,52 @@
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'0'",
-                    "voters": 4,
-                    "chosen": true,
-                    "correct": false
-                },
-                {
-                    "_": "PollAnswerVoters",
-                    "option": "b'1'",
-                    "voters": 3,
-                    "chosen": false,
-                    "correct": false
-                },
-                {
-                    "_": "PollAnswerVoters",
-                    "option": "b'2'",
                     "voters": 9,
                     "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
-                    "option": "b'3'",
-                    "voters": 10,
+                    "option": "b'1'",
+                    "voters": 8,
                     "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
-                    "option": "b'4'",
+                    "option": "b'2'",
+                    "voters": 14,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'3'",
                     "voters": 6,
                     "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
-                    "option": "b'5'",
-                    "voters": 7,
+                    "option": "b'4'",
+                    "voters": 2,
                     "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'5'",
+                    "voters": 6,
+                    "chosen": true,
                     "correct": false
                 }
             ],
-            "total_voters": 39,
-            "recent_voters": [],
+            "total_voters": 45,
+            "recent_voters": [
+                5764082456,
+                5422863690,
+                271450383
+            ],
             "solution": null,
             "solution_entities": []
         }
@@ -126,7 +130,7 @@
     "replies": {
         "_": "MessageReplies",
         "replies": 0,
-        "replies_pts": 6975,
+        "replies_pts": 6977,
         "comments": false,
         "recent_repliers": [],
         "channel_id": null,

@@ -1,11 +1,11 @@
 {
     "_": "Message",
-    "id": 130,
+    "id": 139,
     "peer_id": {
         "_": "PeerChannel",
         "channel_id": 1647040185
     },
-    "date": "2022-05-06T19:01:12+00:00",
+    "date": "2022-05-09T06:51:53+00:00",
     "message": "",
     "out": false,
     "mentioned": false,
@@ -20,49 +20,61 @@
     "from_id": null,
     "fwd_from": null,
     "via_bot_id": null,
-    "reply_to": null,
+    "reply_to": {
+        "_": "MessageReplyHeader",
+        "reply_to_msg_id": 138,
+        "reply_to_scheduled": false,
+        "forum_topic": false,
+        "reply_to_peer_id": null,
+        "reply_to_top_id": null
+    },
     "media": {
         "_": "MessageMediaPoll",
         "poll": {
             "_": "Poll",
-            "id": 5451737744139092127,
-            "question": "Если западная часть Украины де-факто будет присоединена к Польше, вы конкретно этому",
+            "id": 5458527554858123493,
+            "question": "Используя результаты предыдущего опроса, выберите вариант, за который в этот раз проголосуют МЕНЬШЕ всего людей",
             "answers": [
                 {
                     "_": "PollAnswer",
-                    "text": "очень обрадуетесь",
+                    "text": "1",
                     "option": "b'0'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "скорее обрадуетесь",
+                    "text": "2",
                     "option": "b'1'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "отнесётесь нейтрально",
+                    "text": "3",
                     "option": "b'2'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "скорее огорчитесь",
+                    "text": "4",
                     "option": "b'3'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "очень огорчитесь",
+                    "text": "5",
                     "option": "b'4'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "всё равно",
+                    "text": "6",
                     "option": "b'5'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "7",
+                    "option": "b'6'"
                 }
             ],
             "closed": false,
-            "public_voters": false,
+            "public_voters": true,
             "multiple_choice": false,
-            "quiz": false,
+            "quiz": true,
             "close_period": null,
             "close_date": null
         },
@@ -73,21 +85,21 @@
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'0'",
-                    "voters": 4,
-                    "chosen": true,
-                    "correct": false
+                    "voters": 12,
+                    "chosen": false,
+                    "correct": true
                 },
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'1'",
-                    "voters": 3,
+                    "voters": 6,
                     "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'2'",
-                    "voters": 9,
+                    "voters": 5,
                     "chosen": false,
                     "correct": false
                 },
@@ -101,20 +113,31 @@
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'4'",
-                    "voters": 6,
-                    "chosen": false,
+                    "voters": 7,
+                    "chosen": true,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'5'",
-                    "voters": 7,
+                    "voters": 5,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'6'",
+                    "voters": 3,
                     "chosen": false,
                     "correct": false
                 }
             ],
-            "total_voters": 39,
-            "recent_voters": [],
+            "total_voters": 48,
+            "recent_voters": [
+                5764082456,
+                511016527,
+                1352976876
+            ],
             "solution": null,
             "solution_entities": []
         }
@@ -123,16 +146,7 @@
     "entities": [],
     "views": null,
     "forwards": null,
-    "replies": {
-        "_": "MessageReplies",
-        "replies": 0,
-        "replies_pts": 6975,
-        "comments": false,
-        "recent_repliers": [],
-        "channel_id": null,
-        "max_id": null,
-        "read_max_id": null
-    },
+    "replies": null,
     "edit_date": null,
     "post_author": null,
     "grouped_id": null,

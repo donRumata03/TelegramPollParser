@@ -1,11 +1,11 @@
 {
     "_": "Message",
-    "id": 130,
+    "id": 184,
     "peer_id": {
         "_": "PeerChannel",
         "channel_id": 1647040185
     },
-    "date": "2022-05-06T19:01:12+00:00",
+    "date": "2022-05-16T23:49:44+00:00",
     "message": "",
     "out": false,
     "mentioned": false,
@@ -14,7 +14,7 @@
     "post": false,
     "from_scheduled": false,
     "legacy": false,
-    "edit_hide": false,
+    "edit_hide": true,
     "pinned": false,
     "noforwards": false,
     "from_id": null,
@@ -25,42 +25,47 @@
         "_": "MessageMediaPoll",
         "poll": {
             "_": "Poll",
-            "id": 5451737744139092127,
-            "question": "Если западная часть Украины де-факто будет присоединена к Польше, вы конкретно этому",
+            "id": 5195168827511406783,
+            "question": "Сколько информативных e-mail Вы получаете в среднем за день?\n\nИнформативными давайте называть письма, которые Вы читаете целиком и/или на которые отвечаете. Короче не спам, реклама, уведомления, а содержательные письма от реальных людей.",
             "answers": [
                 {
                     "_": "PollAnswer",
-                    "text": "очень обрадуетесь",
+                    "text": "меньше 1",
                     "option": "b'0'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "скорее обрадуетесь",
+                    "text": "1-5",
                     "option": "b'1'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "отнесётесь нейтрально",
+                    "text": "5-10",
                     "option": "b'2'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "скорее огорчитесь",
+                    "text": "10-20",
                     "option": "b'3'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "очень огорчитесь",
+                    "text": "20-40",
                     "option": "b'4'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "всё равно",
+                    "text": "40-80",
                     "option": "b'5'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "больше 80",
+                    "option": "b'6'"
                 }
             ],
             "closed": false,
-            "public_voters": false,
+            "public_voters": true,
             "multiple_choice": false,
             "quiz": false,
             "close_period": null,
@@ -73,48 +78,59 @@
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'0'",
-                    "voters": 4,
-                    "chosen": true,
+                    "voters": 23,
+                    "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'1'",
-                    "voters": 3,
+                    "voters": 24,
                     "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'2'",
-                    "voters": 9,
-                    "chosen": false,
+                    "voters": 2,
+                    "chosen": true,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'3'",
-                    "voters": 10,
+                    "voters": 0,
                     "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'4'",
-                    "voters": 6,
+                    "voters": 0,
                     "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'5'",
-                    "voters": 7,
+                    "voters": 0,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'6'",
+                    "voters": 0,
                     "chosen": false,
                     "correct": false
                 }
             ],
-            "total_voters": 39,
-            "recent_voters": [],
+            "total_voters": 49,
+            "recent_voters": [
+                5764082456,
+                511016527,
+                5422863690
+            ],
             "solution": null,
             "solution_entities": []
         }
@@ -126,17 +142,23 @@
     "replies": {
         "_": "MessageReplies",
         "replies": 0,
-        "replies_pts": 6975,
+        "replies_pts": 6977,
         "comments": false,
         "recent_repliers": [],
         "channel_id": null,
         "max_id": null,
         "read_max_id": null
     },
-    "edit_date": null,
+    "edit_date": "2022-05-17T09:39:51+00:00",
     "post_author": null,
     "grouped_id": null,
-    "reactions": null,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [],
+        "min": false,
+        "can_see_list": true,
+        "recent_reactions": []
+    },
     "restriction_reason": [],
     "ttl_period": null
 }

@@ -1,11 +1,11 @@
 {
     "_": "Message",
-    "id": 130,
+    "id": 181,
     "peer_id": {
         "_": "PeerChannel",
         "channel_id": 1647040185
     },
-    "date": "2022-05-06T19:01:12+00:00",
+    "date": "2022-05-16T18:07:08+00:00",
     "message": "",
     "out": false,
     "mentioned": false,
@@ -14,7 +14,7 @@
     "post": false,
     "from_scheduled": false,
     "legacy": false,
-    "edit_hide": false,
+    "edit_hide": true,
     "pinned": false,
     "noforwards": false,
     "from_id": null,
@@ -25,42 +25,42 @@
         "_": "MessageMediaPoll",
         "poll": {
             "_": "Poll",
-            "id": 5451737744139092127,
-            "question": "Если западная часть Украины де-факто будет присоединена к Польше, вы конкретно этому",
+            "id": 5192917027697721624,
+            "question": "Какова смертельная доза сыра?",
             "answers": [
                 {
                     "_": "PollAnswer",
-                    "text": "очень обрадуетесь",
+                    "text": "< 1 кг",
                     "option": "b'0'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "скорее обрадуетесь",
+                    "text": "1 кг - 2 кг",
                     "option": "b'1'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "отнесётесь нейтрально",
+                    "text": "2 кг - 3 кг",
                     "option": "b'2'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "скорее огорчитесь",
+                    "text": "3 кг - 4кг",
                     "option": "b'3'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "очень огорчитесь",
+                    "text": "4кг - 5 кг",
                     "option": "b'4'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "всё равно",
+                    "text": ">  5 кг",
                     "option": "b'5'"
                 }
             ],
             "closed": false,
-            "public_voters": false,
+            "public_voters": true,
             "multiple_choice": false,
             "quiz": false,
             "close_period": null,
@@ -73,48 +73,52 @@
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'0'",
-                    "voters": 4,
-                    "chosen": true,
-                    "correct": false
-                },
-                {
-                    "_": "PollAnswerVoters",
-                    "option": "b'1'",
                     "voters": 3,
                     "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
-                    "option": "b'2'",
-                    "voters": 9,
-                    "chosen": false,
-                    "correct": false
-                },
-                {
-                    "_": "PollAnswerVoters",
-                    "option": "b'3'",
-                    "voters": 10,
-                    "chosen": false,
-                    "correct": false
-                },
-                {
-                    "_": "PollAnswerVoters",
-                    "option": "b'4'",
+                    "option": "b'1'",
                     "voters": 6,
                     "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
+                    "option": "b'2'",
+                    "voters": 10,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'3'",
+                    "voters": 6,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'4'",
+                    "voters": 4,
+                    "chosen": true,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
                     "option": "b'5'",
-                    "voters": 7,
+                    "voters": 18,
                     "chosen": false,
                     "correct": false
                 }
             ],
-            "total_voters": 39,
-            "recent_voters": [],
+            "total_voters": 47,
+            "recent_voters": [
+                5764082456,
+                511016527,
+                596114319
+            ],
             "solution": null,
             "solution_entities": []
         }
@@ -126,17 +130,71 @@
     "replies": {
         "_": "MessageReplies",
         "replies": 0,
-        "replies_pts": 6975,
+        "replies_pts": 6977,
         "comments": false,
         "recent_repliers": [],
         "channel_id": null,
         "max_id": null,
         "read_max_id": null
     },
-    "edit_date": null,
+    "edit_date": "2022-05-16T18:11:04+00:00",
     "post_author": null,
     "grouped_id": null,
-    "reactions": null,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👎"
+                },
+                "count": 1,
+                "chosen_order": null
+            },
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "count": 1,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": true,
+        "recent_reactions": [
+            {
+                "_": "MessagePeerReaction",
+                "peer_id": {
+                    "_": "PeerUser",
+                    "user_id": 307478806
+                },
+                "date": "2022-05-16T18:15:22+00:00",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "❤"
+                },
+                "big": false,
+                "unread": false
+            },
+            {
+                "_": "MessagePeerReaction",
+                "peer_id": {
+                    "_": "PeerUser",
+                    "user_id": 1030892455
+                },
+                "date": "2022-05-16T18:11:04+00:00",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👎"
+                },
+                "big": false,
+                "unread": false
+            }
+        ]
+    },
     "restriction_reason": [],
     "ttl_period": null
 }

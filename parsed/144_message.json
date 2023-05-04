@@ -1,11 +1,11 @@
 {
     "_": "Message",
-    "id": 130,
+    "id": 144,
     "peer_id": {
         "_": "PeerChannel",
         "channel_id": 1647040185
     },
-    "date": "2022-05-06T19:01:12+00:00",
+    "date": "2022-05-10T15:38:06+00:00",
     "message": "",
     "out": false,
     "mentioned": false,
@@ -25,42 +25,27 @@
         "_": "MessageMediaPoll",
         "poll": {
             "_": "Poll",
-            "id": 5451737744139092127,
-            "question": "Если западная часть Украины де-факто будет присоединена к Польше, вы конкретно этому",
+            "id": 5465317726354407772,
+            "question": "Я знаю происхождение слова абаба",
             "answers": [
                 {
                     "_": "PollAnswer",
-                    "text": "очень обрадуетесь",
+                    "text": "да",
                     "option": "b'0'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "скорее обрадуетесь",
+                    "text": "нет",
                     "option": "b'1'"
                 },
                 {
                     "_": "PollAnswer",
-                    "text": "отнесётесь нейтрально",
+                    "text": "тык",
                     "option": "b'2'"
-                },
-                {
-                    "_": "PollAnswer",
-                    "text": "скорее огорчитесь",
-                    "option": "b'3'"
-                },
-                {
-                    "_": "PollAnswer",
-                    "text": "очень огорчитесь",
-                    "option": "b'4'"
-                },
-                {
-                    "_": "PollAnswer",
-                    "text": "всё равно",
-                    "option": "b'5'"
                 }
             ],
             "closed": false,
-            "public_voters": false,
+            "public_voters": true,
             "multiple_choice": false,
             "quiz": false,
             "close_period": null,
@@ -80,41 +65,24 @@
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'1'",
-                    "voters": 3,
+                    "voters": 35,
                     "chosen": false,
                     "correct": false
                 },
                 {
                     "_": "PollAnswerVoters",
                     "option": "b'2'",
-                    "voters": 9,
-                    "chosen": false,
-                    "correct": false
-                },
-                {
-                    "_": "PollAnswerVoters",
-                    "option": "b'3'",
-                    "voters": 10,
-                    "chosen": false,
-                    "correct": false
-                },
-                {
-                    "_": "PollAnswerVoters",
-                    "option": "b'4'",
-                    "voters": 6,
-                    "chosen": false,
-                    "correct": false
-                },
-                {
-                    "_": "PollAnswerVoters",
-                    "option": "b'5'",
-                    "voters": 7,
+                    "voters": 5,
                     "chosen": false,
                     "correct": false
                 }
             ],
-            "total_voters": 39,
-            "recent_voters": [],
+            "total_voters": 44,
+            "recent_voters": [
+                5764082456,
+                511016527,
+                1352976876
+            ],
             "solution": null,
             "solution_entities": []
         }
@@ -126,7 +94,7 @@
     "replies": {
         "_": "MessageReplies",
         "replies": 0,
-        "replies_pts": 6975,
+        "replies_pts": 6977,
         "comments": false,
         "recent_repliers": [],
         "channel_id": null,
