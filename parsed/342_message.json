@@ -1,0 +1,175 @@
+{
+    "_": "Message",
+    "id": 342,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1647040185
+    },
+    "date": "2022-07-05T19:30:44+00:00",
+    "message": "",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": false,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": true,
+    "pinned": false,
+    "noforwards": false,
+    "from_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPoll",
+        "poll": {
+            "_": "Poll",
+            "id": 5343858074153124139,
+            "question": "В идеальной для вас стране: права гетеросексуалов",
+            "answers": [
+                {
+                    "_": "PollAnswer",
+                    "text": "Можно вступать в брак",
+                    "option": "b'0'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Можно заниматься сексом",
+                    "option": "b'1'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Можно устраивать демонстрации",
+                    "option": "b'2'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Ничего нельзя",
+                    "option": "b'3'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Неважно",
+                    "option": "b'4'"
+                }
+            ],
+            "closed": false,
+            "public_voters": false,
+            "multiple_choice": true,
+            "quiz": false,
+            "close_period": null,
+            "close_date": null
+        },
+        "results": {
+            "_": "PollResults",
+            "min": false,
+            "results": [
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'0'",
+                    "voters": 46,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'1'",
+                    "voters": 47,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'2'",
+                    "voters": 38,
+                    "chosen": true,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'3'",
+                    "voters": 14,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'4'",
+                    "voters": 1,
+                    "chosen": false,
+                    "correct": false
+                }
+            ],
+            "total_voters": 61,
+            "recent_voters": [],
+            "solution": null,
+            "solution_entities": []
+        }
+    },
+    "reply_markup": null,
+    "entities": [],
+    "views": null,
+    "forwards": null,
+    "replies": {
+        "_": "MessageReplies",
+        "replies": 0,
+        "replies_pts": 7065,
+        "comments": false,
+        "recent_repliers": [],
+        "channel_id": null,
+        "max_id": null,
+        "read_max_id": null
+    },
+    "edit_date": "2023-04-17T08:39:22+00:00",
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🙏"
+                },
+                "count": 2,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": true,
+        "recent_reactions": [
+            {
+                "_": "MessagePeerReaction",
+                "peer_id": {
+                    "_": "PeerUser",
+                    "user_id": 5422863690
+                },
+                "date": "2023-05-05T01:42:59+00:00",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🙏"
+                },
+                "big": false,
+                "unread": false
+            },
+            {
+                "_": "MessagePeerReaction",
+                "peer_id": {
+                    "_": "PeerUser",
+                    "user_id": 1352976876
+                },
+                "date": "2023-04-17T08:39:22+00:00",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "🙏"
+                },
+                "big": false,
+                "unread": false
+            }
+        ]
+    },
+    "restriction_reason": [],
+    "ttl_period": null
+}
