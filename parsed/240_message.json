@@ -1,0 +1,107 @@
+{
+    "_": "Message",
+    "id": 240,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1647040185
+    },
+    "date": "2022-06-05T13:39:22+00:00",
+    "message": "Совсем скоро череда контрольных и экзаменов будет позади, и мы сможем окунуться в беззаботное(почти) лето.\nА пока проекты наваливаются один за другим, мы решили провести аналогию между героями мультфильмов и типами людей во время групповой работы.\n\n\nС любовью,\nСтудсовет Питерской Вышки ❤️",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": false,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "from_id": null,
+    "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2022-06-05T13:21:55+00:00",
+        "imported": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1144111288
+        },
+        "from_name": null,
+        "channel_post": 1179,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "psa_type": null
+    },
+    "via_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+            "_": "Photo",
+            "id": 5253692224141638147,
+            "access_hash": -4034911731412089926,
+            "file_reference": "b'\\x02b+\\xd6\\xb9\\x00\\x00\\x00\\xf0dV\\x8a_\\xbe\\xa7\\xe0\\xc0\\xff\\xaaD\\xbd\\xd1b\\xf4\\xa3\\xbf\\xff\\xdd\\xc6'",
+            "date": "2022-06-05T13:21:54+00:00",
+            "sizes": [
+                {
+                    "_": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "b'\\x01((\\xd4\\x9ea\\n\\x8c\\x8c\\xb3\\x1c\\x01\\xebM\\x82\\xe9e,\\xa7\\xe5e\\xea3L\\xbd\\x80O\\x18\\xe7\\x04\\x1e3L\\xb3\\xb5\\x11+n\\xc1c\\xc1\\xc7\\xa5N\\xb7*\\xca\\xc2\\xff\\x00h&s\\xb0\\xf9y\\xc6\\xef\\xfe\\xb5I5\\xd2\\xc6\\xeb\\x1a\\x80\\xd20\\xc8\\x04\\xe3\\x8a\\xaclWg\\x95\\xbf\\xe5\\xdd\\x9c\\xf7\\xab\\x12Z\\xc4fY\\xba:\\xae\\xd1\\xf4\\xaa^b\\x1f\\x04\\xe2`\\xc3\\x80\\xeb\\xf7\\x979\\xc5\\x14\\x96\\xf0$O$\\x8ard\\xc6\\x7f\\n(b\\x16\\xe2FE\\x1bx\\'\\xbd2\\xdegb\\xc2Nq\\xcdM\"\\x07L\\x11\\x9aHb\\x11\\x83\\x81\\x8f\\xc6\\x81\\x19\\xdf\\xda\\x12dz\\xe7\\xa1\\xc6?\\xc6\\xac\\xdd\\\\H\\xac\\x8b\\x10\\xc6F\\xe3\\xc5\\'\\xd8 \\xf3\\xbc\\xcf(\\xfd3\\xc5X\\x96%\\x93\\x92\\xb9=*Zv\\xd0\\xbb\\xa2;9\\xdaP\\xe8\\xff\\x00}:\\xf1\\x8e\\xb4T\\xd1\\xc6#^\\x063\\xd6\\x8a\\xa4K\\x07R\\xd8\\xc3\\x15\\xfaS\\x94m\\x18\\xc9?Z(\\xa0\\x05\\xa2\\x8a(\\x00\\xa2\\x8a(\\x03'"
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "m",
+                    "w": 320,
+                    "h": 320,
+                    "size": 22122
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "x",
+                    "w": 800,
+                    "h": 800,
+                    "size": 90127
+                },
+                {
+                    "_": "PhotoSizeProgressive",
+                    "type": "y",
+                    "w": 1080,
+                    "h": 1080,
+                    "sizes": [
+                        9345,
+                        22463,
+                        39207,
+                        57303,
+                        94093
+                    ]
+                }
+            ],
+            "dc_id": 2,
+            "has_stickers": false,
+            "video_sizes": []
+        },
+        "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [],
+    "views": 508,
+    "forwards": 3,
+    "replies": {
+        "_": "MessageReplies",
+        "replies": 0,
+        "replies_pts": 7065,
+        "comments": false,
+        "recent_repliers": [],
+        "channel_id": null,
+        "max_id": null,
+        "read_max_id": null
+    },
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null
+}

@@ -1,0 +1,225 @@
+{
+    "_": "Message",
+    "id": 244,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1647040185
+    },
+    "date": "2022-06-05T14:14:13+00:00",
+    "message": "",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": false,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": true,
+    "pinned": false,
+    "noforwards": false,
+    "from_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPoll",
+        "poll": {
+            "_": "Poll",
+            "id": 5251313533357916621,
+            "question": "Могу пробежать 3 километра со средним темпом (в минутах на км)",
+            "answers": [
+                {
+                    "_": "PollAnswer",
+                    "text": "<= 3:00",
+                    "option": "b'0'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "<= 3:30",
+                    "option": "b'1'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "<= 4:00",
+                    "option": "b'2'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "<= 4:30",
+                    "option": "b'3'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "<= 5:00",
+                    "option": "b'4'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "<= 5:30",
+                    "option": "b'5'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "<= 6:00",
+                    "option": "b'6'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "<= 6:30",
+                    "option": "b'7'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "не ебу как быстро я бегаю",
+                    "option": "b'8'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "не бегаю/бег для лошков",
+                    "option": "b'9'"
+                }
+            ],
+            "closed": false,
+            "public_voters": true,
+            "multiple_choice": false,
+            "quiz": false,
+            "close_period": null,
+            "close_date": null
+        },
+        "results": {
+            "_": "PollResults",
+            "min": false,
+            "results": [
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'0'",
+                    "voters": 2,
+                    "chosen": true,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'1'",
+                    "voters": 1,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'2'",
+                    "voters": 2,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'3'",
+                    "voters": 0,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'4'",
+                    "voters": 3,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'5'",
+                    "voters": 3,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'6'",
+                    "voters": 1,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'7'",
+                    "voters": 1,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'8'",
+                    "voters": 28,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'9'",
+                    "voters": 11,
+                    "chosen": false,
+                    "correct": false
+                }
+            ],
+            "total_voters": 52,
+            "recent_voters": [
+                5764082456,
+                5422863690,
+                803731520
+            ],
+            "solution": null,
+            "solution_entities": []
+        }
+    },
+    "reply_markup": null,
+    "entities": [],
+    "views": null,
+    "forwards": null,
+    "replies": {
+        "_": "MessageReplies",
+        "replies": 0,
+        "replies_pts": 7065,
+        "comments": false,
+        "recent_repliers": [],
+        "channel_id": null,
+        "max_id": null,
+        "read_max_id": null
+    },
+    "edit_date": "2022-06-14T06:18:02+00:00",
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 1,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": true,
+        "recent_reactions": [
+            {
+                "_": "MessagePeerReaction",
+                "peer_id": {
+                    "_": "PeerUser",
+                    "user_id": 268957968
+                },
+                "date": "2022-06-14T06:18:02+00:00",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "big": false,
+                "unread": false
+            }
+        ]
+    },
+    "restriction_reason": [],
+    "ttl_period": null
+}

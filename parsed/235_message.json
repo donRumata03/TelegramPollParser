@@ -1,0 +1,194 @@
+{
+    "_": "Message",
+    "id": 235,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1647040185
+    },
+    "date": "2022-06-02T21:14:10+00:00",
+    "message": "",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": false,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "from_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPoll",
+        "poll": {
+            "_": "Poll",
+            "id": 5244459865065128162,
+            "question": "Здоровый образ жизни с мультичойсом (автор дебил извините)",
+            "answers": [
+                {
+                    "_": "PollAnswer",
+                    "text": "Постоянно занимаюсь спортом (не кибер)",
+                    "option": "b'0'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Правильно питаюсь",
+                    "option": "b'1'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Не пью",
+                    "option": "b'2'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Не курю",
+                    "option": "b'3'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Не употребляю (сами понимаете, что)",
+                    "option": "b'4'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Засыпаю и просыпаюсь в одно и то же время",
+                    "option": "b'5'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Закаляюсь",
+                    "option": "b'6'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Как-то еще положительно влияю на свое здоровье",
+                    "option": "b'7'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Все вышесказанное не про меня/тык",
+                    "option": "b'8'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Автор дебил",
+                    "option": "b'9'"
+                }
+            ],
+            "closed": false,
+            "public_voters": true,
+            "multiple_choice": true,
+            "quiz": false,
+            "close_period": null,
+            "close_date": null
+        },
+        "results": {
+            "_": "PollResults",
+            "min": false,
+            "results": [
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'0'",
+                    "voters": 14,
+                    "chosen": true,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'1'",
+                    "voters": 8,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'2'",
+                    "voters": 19,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'3'",
+                    "voters": 37,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'4'",
+                    "voters": 42,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'5'",
+                    "voters": 5,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'6'",
+                    "voters": 2,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'7'",
+                    "voters": 8,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'8'",
+                    "voters": 3,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'9'",
+                    "voters": 17,
+                    "chosen": false,
+                    "correct": false
+                }
+            ],
+            "total_voters": 49,
+            "recent_voters": [
+                5764082456,
+                511016527,
+                577293884
+            ],
+            "solution": null,
+            "solution_entities": []
+        }
+    },
+    "reply_markup": null,
+    "entities": [],
+    "views": null,
+    "forwards": null,
+    "replies": {
+        "_": "MessageReplies",
+        "replies": 0,
+        "replies_pts": 7065,
+        "comments": false,
+        "recent_repliers": [],
+        "channel_id": null,
+        "max_id": null,
+        "read_max_id": null
+    },
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null
+}

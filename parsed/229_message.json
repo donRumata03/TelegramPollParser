@@ -1,0 +1,134 @@
+{
+    "_": "Message",
+    "id": 229,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1647040185
+    },
+    "date": "2022-05-27T22:56:06+00:00",
+    "message": "",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": false,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "from_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPoll",
+        "poll": {
+            "_": "Poll",
+            "id": 5226842265699222489,
+            "question": "Ввести в уголовные кодексы всех стран статью за осознанное (со)участие, (со)действие в создании Василиска Роко",
+            "answers": [
+                {
+                    "_": "PollAnswer",
+                    "text": "Да, давайте",
+                    "option": "b'0'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Нет, не надо",
+                    "option": "b'1'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Пофиг",
+                    "option": "b'2'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Отказываюсь отвечать",
+                    "option": "b'3'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Я не знаю что такое Василиск Роко (лучше не знай дальше, я предупреждал)",
+                    "option": "b'4'"
+                }
+            ],
+            "closed": false,
+            "public_voters": true,
+            "multiple_choice": false,
+            "quiz": false,
+            "close_period": null,
+            "close_date": null
+        },
+        "results": {
+            "_": "PollResults",
+            "min": false,
+            "results": [
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'0'",
+                    "voters": 0,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'1'",
+                    "voters": 6,
+                    "chosen": true,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'2'",
+                    "voters": 4,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'3'",
+                    "voters": 2,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'4'",
+                    "voters": 21,
+                    "chosen": false,
+                    "correct": false
+                }
+            ],
+            "total_voters": 33,
+            "recent_voters": [
+                5764082456,
+                511016527,
+                5422863690
+            ],
+            "solution": null,
+            "solution_entities": []
+        }
+    },
+    "reply_markup": null,
+    "entities": [],
+    "views": null,
+    "forwards": null,
+    "replies": {
+        "_": "MessageReplies",
+        "replies": 0,
+        "replies_pts": 7065,
+        "comments": false,
+        "recent_repliers": [],
+        "channel_id": null,
+        "max_id": null,
+        "read_max_id": null
+    },
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null
+}
