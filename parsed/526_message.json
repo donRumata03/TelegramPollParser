@@ -1,0 +1,43 @@
+{
+    "_": "Message",
+    "id": 526,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1647040185
+    },
+    "date": "2022-08-26T16:03:24+00:00",
+    "message": "молодец",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": false,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "from_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "reply_to": {
+        "_": "MessageReplyHeader",
+        "reply_to_msg_id": 525,
+        "reply_to_scheduled": false,
+        "forum_topic": false,
+        "reply_to_peer_id": null,
+        "reply_to_top_id": 522
+    },
+    "media": null,
+    "reply_markup": null,
+    "entities": [],
+    "views": null,
+    "forwards": null,
+    "replies": null,
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null
+}

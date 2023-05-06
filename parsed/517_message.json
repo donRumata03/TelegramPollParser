@@ -1,0 +1,169 @@
+{
+    "_": "Message",
+    "id": 517,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1647040185
+    },
+    "date": "2022-08-24T16:15:28+00:00",
+    "message": "",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": false,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": true,
+    "pinned": false,
+    "noforwards": false,
+    "from_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPoll",
+        "poll": {
+            "_": "Poll",
+            "id": 5201977201079092030,
+            "question": "You are ...",
+            "answers": [
+                {
+                    "_": "PollAnswer",
+                    "text": "Good at video games",
+                    "option": "b'0'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Mentally stable",
+                    "option": "b'1'"
+                },
+                {
+                    "_": "PollAnswer",
+                    "text": "Employed",
+                    "option": "b'2'"
+                }
+            ],
+            "closed": false,
+            "public_voters": true,
+            "multiple_choice": true,
+            "quiz": false,
+            "close_period": null,
+            "close_date": null
+        },
+        "results": {
+            "_": "PollResults",
+            "min": false,
+            "results": [
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'0'",
+                    "voters": 18,
+                    "chosen": true,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'1'",
+                    "voters": 18,
+                    "chosen": false,
+                    "correct": false
+                },
+                {
+                    "_": "PollAnswerVoters",
+                    "option": "b'2'",
+                    "voters": 15,
+                    "chosen": false,
+                    "correct": false
+                }
+            ],
+            "total_voters": 35,
+            "recent_voters": [
+                5764082456,
+                5422863690,
+                271450383
+            ],
+            "solution": null,
+            "solution_entities": []
+        }
+    },
+    "reply_markup": null,
+    "entities": [],
+    "views": null,
+    "forwards": null,
+    "replies": {
+        "_": "MessageReplies",
+        "replies": 0,
+        "replies_pts": 7065,
+        "comments": false,
+        "recent_repliers": [],
+        "channel_id": null,
+        "max_id": null,
+        "read_max_id": null
+    },
+    "edit_date": "2022-08-24T16:31:55+00:00",
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👎"
+                },
+                "count": 4,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": true,
+        "recent_reactions": [
+            {
+                "_": "MessagePeerReaction",
+                "peer_id": {
+                    "_": "PeerUser",
+                    "user_id": 1953731555
+                },
+                "date": "2022-08-24T19:42:52+00:00",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👎"
+                },
+                "big": false,
+                "unread": false
+            },
+            {
+                "_": "MessagePeerReaction",
+                "peer_id": {
+                    "_": "PeerUser",
+                    "user_id": 427777843
+                },
+                "date": "2022-08-24T17:59:37+00:00",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👎"
+                },
+                "big": false,
+                "unread": false
+            },
+            {
+                "_": "MessagePeerReaction",
+                "peer_id": {
+                    "_": "PeerUser",
+                    "user_id": 825439402
+                },
+                "date": "2022-08-24T17:03:01+00:00",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👎"
+                },
+                "big": false,
+                "unread": false
+            }
+        ]
+    },
+    "restriction_reason": [],
+    "ttl_period": null
+}
